@@ -1,0 +1,30 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+#btnLess {
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.game-card-container {
+ display: flex;
+ margin: 0 auto;
+}
+.game-zone {
+    width: 300px;
+}
+
+.card-body {
+    background-color: rgb(236, 188, 140);
+}
+.card-header {
+    background-color: rgb(221, 175, 130);
+}
+.card-footer {
+    background-color: rgb(243, 156, 75);
+}
